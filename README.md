@@ -15,6 +15,7 @@ Analysis of campaign outcomes based on their launch date used a total of 1,369 c
 
 ### Analysis of Outcomes Based on Goals
 Analysis of campaign outcomes based on financial fundraising goals used data from the plays subcategory. Plays, a subcategory of the theater parent category, contained 1,066 campaign items of the 1,369 theater campaigns and 4,114 total campaigns. Data was divided into 12 categories and calculated the total number of successful, failed, and canceled campaigns in addition to the percentage of successful, failed, and canceled campaigns. The 12 categories used in this analysis occupy our charts x-axis and range from financial goal quantities of "Less than 1000" to "Greater than 50,000" with increments of approximately 5,000. The y-axis displays percentage values pertaining to successful, failed, and canceled theater campaigns. 
+https://github.com/ChrisBarton107/Kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered  
 Desired analysis was completed without any noteworthy challenges.
