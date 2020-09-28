@@ -21,10 +21,10 @@ Desired analysis was completed without any noteworthy challenges.
 
 ## Results  
 **What are two conclusions you can draw about the Outcomes based on Launch Date?** 
-a. Campaigns launched during late spring/early summer were most successful in achieving their goals. The rate of canceled campaigns remained relatively consistent throughout the year. 
+Campaigns launched during late spring/early summer were most successful in achieving their goals. The rate of canceled campaigns remained relatively consistent throughout the year. 
 
 **What can you conclude about the Outcomes based on Goals?** 
-a. Campaigns with greater financial fundraising goals were more likely to fail while campaigns with less financial fundraising goals were more likely to succeed. 
+Campaigns with greater financial fundraising goals were more likely to fail while campaigns with less financial fundraising goals were more likely to succeed. 
 
 **What are some limitations of this dataset? - What are some other possible tables and/or graphs that we could create?**
-a. The analysis which captured information regarding outcomes related to launch date does not factor in the duration of the fundraising campaign. This information is provided in the data but is not factored into the analysis. The addition of a fundraising time duration variable would likely have a major influence on results. The data captured reveals the benefits of launching campaigns during late spring/early summer but could be misleading by not disclosing time duration of the fundraising campaign. 
+The analysis which captured information regarding outcomes related to launch date does not factor in the duration of the fundraising campaign. This information is provided in the data but is not factored into the analysis. The addition of a fundraising time duration variable would likely have a major influence on results. The data captured reveals the benefits of launching campaigns during late spring/early summer but could be misleading by not disclosing time duration of the fundraising campaign. 
