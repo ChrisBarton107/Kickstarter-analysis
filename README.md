@@ -12,11 +12,11 @@ Louise is interested in the campaign outcomes of plays in Great Britian. For rea
 
 ### Analysis of Outcomes Based on Launch Date
 Analysis of campaign outcomes based on their launch date used a total of 1,369 campaigns of the original 4,114 in the dataset. A pivot table was created that uses outcomes as columns and all 12 months of the year as rows. A line chart was created from the table, using months of the year (launch date) as the x-axis and total sum (successful, failed, canceled) from each month as the y-axis.
-Outcomes Based on Launch Date chart:https://github.com/ChrisBarton107/Kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png
+**Outcomes Based on Launch Date chart**:https://github.com/ChrisBarton107/Kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 Analysis of campaign outcomes based on financial fundraising goals used data from the plays subcategory. Plays, a subcategory of the theater parent category, contained 1,066 campaign items of the 1,369 theater campaigns and 4,114 total campaigns. Data was divided into 12 categories and calculated the total number of successful, failed, and canceled campaigns in addition to the percentage of successful, failed, and canceled campaigns. The 12 categories used in this analysis occupy our charts x-axis and range from financial goal quantities of "Less than 1000" to "Greater than 50,000" with increments of approximately 5,000. The y-axis displays percentage values pertaining to successful, failed, and canceled theater campaigns. 
-Outcomes Based on Goals chart:https://github.com/ChrisBarton107/Kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png
+**Outcomes Based on Goals chart**:https://github.com/ChrisBarton107/Kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered  
 Desired analysis was completed without any noteworthy challenges.
@@ -29,4 +29,4 @@ Campaigns launched during late spring/early summer were most successful in achie
 Campaigns with greater financial fundraising goals were more likely to fail while campaigns with less financial fundraising goals were more likely to succeed. 
 
 **What are some limitations of this dataset? - What are some other possible tables and/or graphs that we could create?**
-The analysis which captured information regarding outcomes related to launch date does not factor in the duration of the fundraising campaign. This information is provided in the data but is not factored into the analysis. The addition of a fundraising time duration variable would likely have a major influence on results. The data captured reveals the benefits of launching campaigns during late spring/early summer but could be misleading by not disclosing time duration of the fundraising campaign. 
+The analysis which captured information regarding outcomes related to launch date does not factor in the duration of the fundraising campaign. This information is provided in the data but is not factored into the analysis. The addition of a fundraising time duration variable would likely have a major influence on results. The data captured reveals the benefits of launching campaigns during late spring/early summer but could be misleading by not disclosing time duration of the fundraising campaign. An additional chart coupling the time duration with successful/failed/canceled outcomes could augment the data from our analysis.
